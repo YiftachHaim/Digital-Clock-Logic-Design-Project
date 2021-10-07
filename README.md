@@ -1,2 +1,2 @@
-# yif001
-Logic Design project
+# Logic Design project
+Digital Clock
